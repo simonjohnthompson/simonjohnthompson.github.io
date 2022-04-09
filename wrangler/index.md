@@ -1,6 +1,3 @@
-title: Wrangler 
-
-summary: Refactoring for Erlang
 
 
 
