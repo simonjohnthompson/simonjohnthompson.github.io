@@ -1,3 +1,9 @@
+title: Wrangler 
+
+summary: Refactoring for Erlang
+
+
+
 # Wrangler
 
 <img align="right"  width="200px" style="vertical-align:middle;margin:0px 20px" src="wrangler.png">
