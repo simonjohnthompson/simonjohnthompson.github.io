@@ -1,3 +1,10 @@
+---
+title: "Wrangler"
+last_updated: 2022-04-12
+summary: "Refactoring for Erlang"
+toc: false
+permalink: index.html
+---
 
 # Wrangler
 
