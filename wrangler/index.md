@@ -51,6 +51,7 @@ Details about installing and getting started with Wrangler are  ADD LINK.
 
 ## Links
 
+- [Publications](publications.html)
 - [The RELEASE project](http://www.release-project.eu/) 
 - [HaRe: the Haskell refactorer](http://www.cs.kent.ac.uk/projects/refactor-fp/hare.html) UPDATE
 - [Simon Thompson](http://www.cs.kent.ac.uk/people/staff/sjt/) 
