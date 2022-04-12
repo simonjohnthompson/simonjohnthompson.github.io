@@ -12,7 +12,7 @@ Wrangler can also be used to locate and remove code clones, and to improve the m
 
 Wrangler also supports testing in EUnit, QuickCheck and Common Test, so your tests are refactored automatically when you refactor your code.
 
-We have written a paper on Refactoring tools for functional languages, which covers a lot of the background to the development of Wrangler and refactoring for Erlang. Our other publications about Wrangler are listed here.
+We have written a paper on [Refactoring tools for functional languages](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/refactoring-tools-for-functional-languages/F78282D0AE831BD11AD5531826892139), which covers a lot of the background to the development of Wrangler and refactoring for Erlang. Our other publications about Wrangler are listed here.
 
 ### Acknowledgements
 
