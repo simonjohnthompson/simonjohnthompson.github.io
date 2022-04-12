@@ -25,7 +25,7 @@ Wrangler [installer for windows](https://github.com/RefactoringTools/wrangler/re
 
 Wrangler can be used within Eclipse alongside [Erlide](https://erlide.org/index.html), the Erlang plugin.
 
-Details about installing and getting started with Wrangler are  ADD LINK.
+Details about installing and getting started with Wrangler are [here](getting-started.html).
 
 ## Documentation
 
