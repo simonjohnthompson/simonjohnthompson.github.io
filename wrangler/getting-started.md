@@ -7,8 +7,8 @@ First you need to download and install Wrangler: details of this are on the [hom
 The system is documented: this tells you about all the refactorings and other facilities. You can read it [here](https://refactoringtools.github.io/wrangler/). Installation instructions are further down this page.
 
 You can see some introductory presentations about using Wrangler here.
-•    [Improving your (test) code with Wrangler](http://www.cs.kent.ac.uk/people/staff/sjt/presentations/PerthFeb2010.ppt)
-•    [Hands-on Refactoring with Wrangler](http://www.cs.kent.ac.uk/people/staff/sjt/presentations/ErlangFactory09.ppt)
+- [Improving your (test) code with Wrangler](http://www.cs.kent.ac.uk/people/staff/sjt/presentations/PerthFeb2010.ppt)
+- [Hands-on Refactoring with Wrangler](http://www.cs.kent.ac.uk/people/staff/sjt/presentations/ErlangFactory09.ppt)
 
 Finally, you can take a look at the videos about Wrangler, available from the [home page](index.html).
 
