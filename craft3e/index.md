@@ -26,7 +26,7 @@ Free book: [Learn You a Haskell for Great Good!](https://learnyouahaskell.com)
 
 Books [overview](https://wiki.haskell.org/index.php?title=Books)
 
-The Haskell Wikibook [Haskell]: (https://en.wikibooks.org/wiki/Haskell)
+The Haskell Wikibook: [Haskell](https://en.wikibooks.org/wiki/Haskell)
 
 Tutorial on "the bits round the edges": [Tackling the awkward squad](https://www.microsoft.com/en-us/research/publication/tackling-awkward-squad-monadic-inputoutput-concurrency-exceptions-foreign-language-calls-haskell/)
 
