@@ -14,7 +14,9 @@ Legacy site for this book: [haskellcraft.com](https://www.haskellcraft.com/)
 
 The main site for all things Haskell: [Haskell.org](http://www.haskell.org/haskellwiki/Haskell)
 
-Getting started from Haskell.org: [Getting started](https://www.haskell.org/get-started/)
+Getting started with Haskell, including installation on your machine: [Getting started](https://www.haskell.org/get-started/)
+
+The Haskell Playground, ghc without installing anything: [play.haskell.org](https://play.haskell.org), [blogpost](https://blog.haskell.org/the-haskell-playground/)
 
 Find functions by type: [Hoogλe](https://hoogle.haskell.org)
 
