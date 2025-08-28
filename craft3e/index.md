@@ -6,7 +6,7 @@ This is the site for the third edition of the Haskell text, *Haskell: the Craft 
 
 Download the PDF of the third edition [here](craft3e.pdf)
 
-Code for the book, updated to work with recent changes in Haskell and its ecosystem: [Craft3e cabal package](https://hackage.haskell.org/package/Craft3e)
+Code for the book, updated after recent Haskell ecosystem changes: [Craft3e cabal package](https://hackage.haskell.org/package/Craft3e)
 
 Legacy site for this book: [haskellcraft.com](https://www.haskellcraft.com/)
 
