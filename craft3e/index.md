@@ -20,11 +20,13 @@ Find functions by type: [Hoogλe](https://hoogle.haskell.org)
 
 ## Haskell sites
 
-The main site for all things Haskell: [Haskell.org](http://www.haskell.org/haskellwiki/Haskell)
+The main site for all things Haskell: [haskell.org](http://www.haskell.org)
 
 Haskell on reddit: [r/haskell](https://www.reddit.com/r/haskell/)
 
 Haskell on StackOverflow: [[haskell]](https://stackoverflow.com/questions/tagged/haskell)
+
+Haskell Discourse: [discourse.haskell.org](https://discourse.haskell.org)
 
 ## Learning
 
